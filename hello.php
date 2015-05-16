@@ -1,3 +1,2 @@
 <?php
 	hello;
-	good moring;
